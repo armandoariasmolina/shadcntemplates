@@ -75,3 +75,20 @@ category:
   - shadcn-ui
 ---
 ```
+
+### Premium Listings
+
+Every user gets one free premium listing.
+You can also submit unlimited open-source listings.
+
+To keep quality high and discourage spam, there’s a one-time $100 fee if you’d like to submit multiple premium listings. This fee allows you to add as many premium templates as you like.
+
+Please note: All premium listings are reviewed for quality and approval before publishing.
+
+[Purchase Premium Upgrade](https://buy.stripe.com/fZudRaaG5gy0btA8ycfQI02)
+
+
+### Credits
+
+* Original content from [Built At Lightspeed](https://builtatlightspeed.com)
+* This is a project by [@ausrobdev](https://x.com/ausrobdev)
