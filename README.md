@@ -1,6 +1,6 @@
 # Shadcntemplates
 
-This repository contains the template used on [shadntemplates.com](https://shadcntemplates.com).
+This repository contains the data for [shadntemplates.com](https://shadcntemplates.com).
 
 We accept submissions for open source, free and paid listings. Listings must be shadcn ui related code resources such as templates, themes, components, ui-kits, registries, tools and other shadcn adjacent listings.
 
